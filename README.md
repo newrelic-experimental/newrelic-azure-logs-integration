@@ -1,6 +1,6 @@
 [![New Relic Experimental header](https://github.com/newrelic/open-source-office/raw/master/examples/categories/images/Experimental.png)](https://github.com/newrelic/open-source-office/blob/master/examples/categories/index.md#new-relic-experimental)
 
-# Azure EventHub integration for New Relic Logs
+# New Relic Logs for Azure EventHub
 
 [New Relic Logs](https://docs.newrelic.com/docs/introduction-new-relic-logs) offers an integration to forward log messages from  [Azure EventHub](https://azure.microsoft.com/en-us/services/event-hubs/) to New Relic Logs. This allows you to collect logs from all your Azure services (except App services) and view them in New Relic Logs.
 
