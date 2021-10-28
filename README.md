@@ -1,4 +1,4 @@
-DEPRACATED: DO NOT USE. Please see [newrelic-azure-functions](https://github.com/newrelic/newrelic-azure-functions)
+# Depracated: DO NOT USE. Please see [newrelic-azure-functions](https://github.com/newrelic/newrelic-azure-functions)
 
 [![New Relic Experimental header](https://github.com/newrelic/open-source-office/raw/master/examples/categories/images/Experimental.png)](https://github.com/newrelic/open-source-office/blob/master/examples/categories/index.md#new-relic-experimental)
 
